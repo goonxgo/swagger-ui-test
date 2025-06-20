@@ -1,0 +1,9 @@
+{
+    "url": "https://goonxgo.github.io/swagger-ui-test/test.yaml",
+    "urls": [
+        {
+            "url": "https://goonxgo.github.io/swagger-ui-test/test.yaml",
+            "name": "Test"
+        }
+    ]
+}
