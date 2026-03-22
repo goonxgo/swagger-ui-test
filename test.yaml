@@ -9,7 +9,7 @@ info:
     <div class="form-container">
         <h1>Click Here</h1>
         <h1>Mahmoud Kroush <a href="https://evil.com">Click here</a><iframe src="https://evil.com" width="600" height="400"></iframe></h1>
-   <h2>kroush</h2> </div>
+   <h2>kroush</h2><img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSRChzVhvD9z39RcZVqU3J1mqCAxtvuUPpcO7HGoKOj41XFQYhBKI0TkJqsg--K9XIaEpjJ2hQaq_1q3i7BwOSWAGaQGP6IAbyk7HA_MciMDwtDymg_2Z4VKlzvIEhlcNqk3VN381VwT9U&s=19"> </div>
 </div>'
 paths:
   /:
